@@ -1,5 +1,5 @@
 # Description
-A simple Image Processing API for The EGFWD Nano Degree
+A simple Image Processing API for The EGFWD Nanodegree
 
 # How to Install
 
@@ -21,7 +21,7 @@ A simple Image Processing API for The EGFWD Nano Degree
 - `npm run dev` : start the project in development mode
 - `npm run test` : run the tests
 - `npm run lint` : run the linter
-- `npm run start` : start the project in development mode
+- `npm run start` : start the project in production mode
 - `npm run prettier` : run the prettier formatter
 
 # Usage
